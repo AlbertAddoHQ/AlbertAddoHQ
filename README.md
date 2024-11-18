@@ -23,7 +23,7 @@ Hi, I'm **Albert Addo**, a data analyst passionate about leveraging data to solv
 - Created a 'Client Spotlights with Before & After Visuals' series showcasing project transformations and insights.
 
 ## Contact Me
-- 📧 Email: albert.addo@example.com
+- 📧 Email: aknaddo@gmail.com
 - 📱 Phone: +233 24 477 5752
 - 🔗 [LinkedIn](https://www.linkedin.com/in/albertaddo)
 
