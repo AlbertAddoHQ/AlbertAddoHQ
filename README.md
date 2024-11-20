@@ -5,7 +5,7 @@ Hi, I'm **Albert Addo**, a data analyst passionate about leveraging data to solv
 
 ## Skills
 - **Programming Languages**: Python, SQL
-- **Libraries & Tools**: pandas, matplotlib, seaborn, WordCloud
+- **Libraries & Tools**: pandas, matplotlib, seaborn
 - **Data Visualization**: Power BI, Tableau, Excel
 - **Geospatial Analysis**: QGIS
 - **Data Analytics**: Forecasting, Budgeting, Business Reporting
